@@ -56,6 +56,7 @@ Explore our in-depth guides on modern AI development workflows:
 - [Stop Writing Unit Tests Ai](./articles/stop-writing-unit-tests-ai.md)
 - [Top 3 Mistakes Developers Make With Ai](./articles/top-3-mistakes-developers-make-with-ai.md)
 - [Top 5 Ai Cli Tools Javascript](./articles/top-5-ai-cli-tools-javascript.md)
+- [Ultimate Prompt Engineering Cheatsheet Developers](./articles/ultimate-prompt-engineering-cheatsheet-developers.md)
 - [Why Regex Is Dead](./articles/why-regex-is-dead.md)
 - [Why Zero Dependency Is The Future](./articles/why-zero-dependency-is-the-future.md)
 
