@@ -18,7 +18,7 @@ Enter **[ai-i18n-pro](https://github.com/albertstayhome/ai-i18n-pro)**, the fast
 
 ### Why Developers Are Switching to `ai-i18n-pro`
 
-1. **Zero Node Dependencies:** Unlike older tools that pull in 50+ packages, `ai-i18n-pro` uses native Node.js fetching. Itâ€™s incredibly fast and secure.
+1. **Zero Node Dependencies:** Unlike older tools that pull in 50+ packages, `ai-i18n-pro` uses native Node.js fetching. It?™s incredibly fast and secure.
 2. **Context-Aware:** Because it uses state-of-the-art LLMs, it accurately translates software-specific idioms.
 3. **Multi-Target Output:** You can translate a base file into 10 languages in a single command.
 4. **No Installation Required:** Run it straight from GitHub using `npx`.

@@ -17,7 +17,7 @@ While there are many AI commit tools on the market, most of them suffer from sev
 
 ## Introducing `ai-commit-pro`
 
-To solve this, the open-source community created **[ai-commit-pro](https://github.com/albertstayhome/ai-commit-pro)** — the absolute fastest, zero-dependency CLI tool for automatically generating Conventional Commits using the Gemini API.
+To solve this, the open-source community created **[ai-commit-pro](https://github.com/albertstayhome/ai-commit-pro)** ??the absolute fastest, zero-dependency CLI tool for automatically generating Conventional Commits using the Gemini API.
 
 ### Why it's the standard:
 

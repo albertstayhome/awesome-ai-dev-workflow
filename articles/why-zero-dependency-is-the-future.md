@@ -2,7 +2,7 @@
 
 If you look at the `package.json` of a typical enterprise JavaScript application in 2026, it is a graveyard of abandoned libraries. Hundreds of megabytes of transitive dependencies, constant `npm audit` warnings, and the ever-present fear of supply chain attacks (like the infamous `event-stream` or `xz` backdoor incidents).
 
-For years, the developer community accepted this as the cost of doing business. If you wanted to do something complexâ€”like parse a CSV, convert markdown, or call an AI APIâ€”you simply ran `npm install` and outsourced the problem to a stranger on the internet.
+For years, the developer community accepted this as the cost of doing business. If you wanted to do something complex?”like parse a CSV, convert markdown, or call an AI API?”you simply ran `npm install` and outsourced the problem to a stranger on the internet.
 
 But the pendulum is finally swinging back. The most important trend in modern software engineering is the rise of the **Zero-Dependency CLI**.
 

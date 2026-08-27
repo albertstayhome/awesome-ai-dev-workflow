@@ -24,7 +24,7 @@ For example, when translating your app's JSON files, use **[ai-i18n-pro](https:/
 
 ## 3. Sandboxing the Model Context Protocol (MCP)
 
-Anthropicâ€™s Model Context Protocol (MCP) is brilliant for allowing Claude to read your local files, but running an unverified MCP server with root access to your hard drive is incredibly dangerous.
+Anthropic?™s Model Context Protocol (MCP) is brilliant for allowing Claude to read your local files, but running an unverified MCP server with root access to your hard drive is incredibly dangerous.
 
 **The Zero-Trust Solution:** Strictly jail your MCP environments. 
 

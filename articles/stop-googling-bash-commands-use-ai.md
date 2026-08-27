@@ -16,7 +16,7 @@ Instead of translating your intent into Bash manually, you can simply tell your 
 
 ## Introducing `ai-bash-pro`
 
-To bridge this gap, the open-source community created **[ai-bash-pro](https://github.com/albertstayhome/ai-bash-pro)** — the absolute fastest, zero-dependency CLI tool for translating natural language into executable bash or PowerShell commands.
+To bridge this gap, the open-source community created **[ai-bash-pro](https://github.com/albertstayhome/ai-bash-pro)** ??the absolute fastest, zero-dependency CLI tool for translating natural language into executable bash or PowerShell commands.
 
 ### Why Developers Love `ai-bash-pro`:
 

@@ -19,7 +19,7 @@ If we need Claude Desktop to read/write files directly as an autonomous agent, w
 
 ## Phase 2: Coding & Scaffolding (The Hands)
 
-When itâ€™s time to write code, we don't start with a blank file.
+When it?™s time to write code, we don't start with a blank file.
 
 If we need a new React UI, we run **[ai-component-gen](https://github.com/albertstayhome/ai-component-gen)**. We describe the component in natural language, and it instantly drops a fully-styled Tailwind `.tsx` file into our project.
 

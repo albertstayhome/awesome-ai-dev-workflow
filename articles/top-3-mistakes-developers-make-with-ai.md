@@ -2,7 +2,7 @@
 
 AI coding assistants have revolutionized the industry, but they are not magic. If you treat Claude or ChatGPT like a junior developer who can read your mind, you are going to spend more time fixing their hallucinations than you would have spent writing the code yourself.
 
-After analyzing thousands of AI interactions, weâ€™ve identified the top 3 mistakes developers make when integrating AI into their workflowsâ€”and the zero-dependency tools you can use to fix them instantly.
+After analyzing thousands of AI interactions, we?™ve identified the top 3 mistakes developers make when integrating AI into their workflows?”and the zero-dependency tools you can use to fix them instantly.
 
 ## Mistake 1: Prompting Without Context
 

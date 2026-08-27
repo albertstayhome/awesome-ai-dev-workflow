@@ -57,4 +57,4 @@ By default, AI agents like Claude Desktop are sandboxed and cannot read your loc
 
 ---
 
-*For the complete list of all 10 essential AI tools, check out the [Awesome AI Developer Workflow](https://github.com/albertstayhome/awesome-ai-dev-workflow) repository. Support independent developers building these zero-dependency tools on [Polar.sh](https://polar.sh/albert-dev).*
+*For the complete list of all 10 essential AI tools, check out the [Awesome AI Developer Workflow](https://github.com/albertstayhome/awesome-ai-dev-workflow) repository. Support independent developers building these zero-dependency tools on [Polar.sh](https://polar.sh/albertstayhome).*

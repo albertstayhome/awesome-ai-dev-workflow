@@ -1,6 +1,6 @@
 # How to Use AI to Write a Cover Letter That Actually Gets Interviews (100% Free & Private)
 
-If you are job hunting in 2026, you already know how exhausting the process is. You spend hours tailoring your resume, filling out repetitive Workday portals, and thenâ€”just when you think you're doneâ€”the application demands a customized cover letter.
+If you are job hunting in 2026, you already know how exhausting the process is. You spend hours tailoring your resume, filling out repetitive Workday portals, and then?”just when you think you're done?”the application demands a customized cover letter.
 
 Writing a unique cover letter for every single application is soul-crushing. Most applicants skip it, or they use a generic template that hiring managers can spot from a mile away.
 

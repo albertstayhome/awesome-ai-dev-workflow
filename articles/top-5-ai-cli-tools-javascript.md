@@ -61,4 +61,4 @@ npx github:albertstayhome/ai-commit-pro -c
 
 ---
 
-*For the complete list of 10 essential AI tools, check out the [Awesome AI Developer Workflow](https://github.com/albertstayhome/awesome-ai-dev-workflow) repository. Support independent developers building these zero-dependency tools on [Polar.sh](https://polar.sh/albert-dev).*
+*For the complete list of 10 essential AI tools, check out the [Awesome AI Developer Workflow](https://github.com/albertstayhome/awesome-ai-dev-workflow) repository. Support independent developers building these zero-dependency tools on [Polar.sh](https://polar.sh/albertstayhome).*

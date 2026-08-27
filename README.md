@@ -1,14 +1,14 @@
-# 🚀 Awesome AI Developer Workflow 🤖
+# ?? Awesome AI Developer Workflow ??
 
 A curated list and comprehensive tutorial on how to supercharge your software development workflow using Artificial Intelligence in 2026. This repository serves as a hub for the best zero-dependency tools, scripts, and practices to integrate LLMs into your daily coding routine.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 💖 Support the Ecosystem
+## ?? Support the Ecosystem
 All tools listed here are 100% free, open-source, and zero-dependency. If they save you time, please consider supporting the independent developer!
-👉 **[Support on Polar.sh](https://polar.sh/albert-dev)**
+?? **[Support on Polar.sh](https://polar.sh/albertstayhome)**
 
-## 🛠️ The Zero-Dependency AI Toolkit
+## ??�?The Zero-Dependency AI Toolkit
 
 Stop installing heavy global npm packages. Run all of these instantly from GitHub using your own Gemini API key: `export GEMINI_API_KEY="your_key"`.
 
@@ -36,7 +36,7 @@ Stop installing heavy global npm packages. Run all of these instantly from GitHu
 
 ---
 
-## 📚 Technical Articles & SEO Guides
+## ?? Technical Articles & SEO Guides
 
 Explore our in-depth guides on modern AI development workflows:
 
@@ -63,5 +63,5 @@ Explore our in-depth guides on modern AI development workflows:
 
 ---
 
-## 🤝 Contributing
+## ?? Contributing
 Contributions are welcome! Please submit a pull request if you have a zero-dependency tool that improves the AI development workflow.
